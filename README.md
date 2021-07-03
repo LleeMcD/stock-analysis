@@ -40,13 +40,13 @@ For example:
 Disadvantages of refactoring code include that making changes to consolidate subscripts may actually create more problems if the coder isn't careful. For example, the subsript to clear the worksheet could not easily be incorporated into the refactored code without increasing the run time (by this novice). In conclusion, refactoring code should be performed, but it must be done with the utmost care and precision in order for it to be successful. 
 ## Appendix 1
 #### Original Code 2017
-![All_Stocks_2017](https://github.com/LleeMcD/Election_Analysis/blob/main/Resources/All_Stocks_2017.png)
+![All_Stocks_2017](https://github.com/LleeMcD/stock-analysis/blob/main/Resources/All_Stocks_2017.png)
 #### Refactored Code 2017
-![VBA_Challenge_2017](https://github.com/LleeMcD/Election_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](https://github.com/LleeMcD/stock-analysis/blob/main/Resources/All_Stocks_2018.png)
 #### Original Code 2018
-![All_Stocks_2018](https://github.com/LleeMcD/Election_Analysis/blob/main/Resources/All_Stocks_2018.png)
+![All_Stocks_2018](https://github.com/LleeMcD/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 #### Refactored Code 2018
-![VBA_Challenge_2018](https://github.com/LleeMcD/Election_Analysis/blob/main/Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](https://github.com/LleeMcD/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 ## Appendix 2
 #### Original Project Code 
 Sub yearValueAnalysis()
