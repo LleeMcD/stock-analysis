@@ -1,4 +1,3 @@
-# Stock Analysis
 # Stock Analysis Project
 ## Overview
 The purpose of this project was two-fold: 
